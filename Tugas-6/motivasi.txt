@@ -1,1 +1,6 @@
-Motivasi saya dalam mengikuti bootcamp ini yaitu ingin mengembangkan pengetahuan serta kemampuan saya dibidang web development. Harapan saya setelah mengikuti program bootcamp ini yaitu dapat mengembangkan pengetahuan saya di dibidang web develompment serta dapat menguasai web development baik di front end maupun back end.
+Motivasi saya dalam mengikuti bootcamp ini yaitu ingin mengembangkan 
+pengetahuan serta kemampuan saya dibidang web development. 
+
+Harapan saya setelah mengikuti program bootcamp ini yaitu dapat mengembangkan 
+pengetahuan saya di dibidang web develompment serta dapat menguasai web development 
+baik di front end maupun back end.
